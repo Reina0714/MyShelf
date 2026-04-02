@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyShelf</string>
+    <string name="good_morning_daisy">Good morning, Daisy!</string>
+    <string name="let_s_check_your_shelf_today">Let\'s check your shelf today</string>
+    <string name="my_inventory">My Inventory</string>
+    <string name="settings_icon">Settings icon</string>
+    <string name="add_new_inventory_item">Add new inventory item</string>
+
+    <string name="expiring_alert_icon">Expiring Alert</string>
+    <string name="money_saved_icon">Money Saved</string>
+
+    <string name="items_count">3 Items</string>
+    <string name="expiring_soon">Expiring Soon</string>
+    <string name="total_saved_amount">RM32.00</string>
+    <string name="total_saved_label">Total Saved</string>
+    <string name="_3_items">3 Items</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_recipes">Recipes</string>
+    <string name="nav_history">History</string>
+</resources>
